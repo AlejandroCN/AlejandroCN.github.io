@@ -1,0 +1,56 @@
+[
+  {
+    "id": "memoriaApp",
+    "titulo": "Memoria App",
+    "descripcion": "Memoria App es un juego de memoria en línea, no es necesario registrarse para poder jugar. Existen diferentes tamaños de tablero según la dificultad deseada. Al terminar la partida ingresa un nickname para agregar tus datos (tiempo e intentos) al ranking global!",
+    "urlDemo": "https://memoria-app-74cac.web.app/#/inicio",
+    "urlGitHub": "https://github.com/AlejandroCN/memoria-app",
+    "img": "assets/img/portfolio/memoria.PNG",
+    "isOpenSource": true
+  },
+  {
+    "id": "tramosHorarios",
+    "titulo": "Tramos Horarios",
+    "descripcion": "Tramos horarios es una aplicación que muestra la comunicación en tiempo real entre usuarios mediante mensajes STOMP. Autenticate para seleccionar los horarios de interés que van desde las 8 a las 20 hrs en intervalos de 30 minutos, cada horario cuenta con una disponiblidad máxima de 8 reservaciones.",
+    "urlDemo": "https://tramos-horarios.web.app/#/auth/login",
+    "urlGitHub": "https://github.com/AlejandroCN/tramos-horarios-frontend",
+    "img": "assets/img/portfolio/tramos-horarios.PNG",
+    "isOpenSource": true
+  },
+  {
+    "id": "triviasApp",
+    "titulo": "Trivias App",
+    "descripcion": "Trivias es una aplicación de preguntas sobre diferentes temáticas. Registrate con un nombre de usuario y contraseña para entrar a la aplicación, seleccionar una categoría y contestar 20 preguntas aleatorias. Tu tiempo de solución de la trivia y total de aciertos son agregados a tus records personales y si eres listo al top ten! Además como administrador puedes registrar nuevas categorías y nuevas preguntas.",
+    "urlDemo": "https://trivias-app.web.app/#/auth/login",
+    "urlGitHub": "https://github.com/AlejandroCN/trivias-frontend",
+    "img": "assets/img/portfolio/trivias.PNG",
+    "isOpenSource": true
+  },
+  {
+    "id": "transportes",
+    "titulo": "Sistema de Transportes",
+    "descripcion": "Este sistema es una aplicación privativa desarrollada para la empresa Transportes Terrestres Aloy, tiene una gestión completa de usuarios y roles, flujos de trabajo del negocio, y múltiples reportes para las diferentes jerarquías de la empresa, este sistema se encuentra en producción desde marzo de 2020.",
+    "urlDemo": "",
+    "urlGitHub": "",
+    "img": "assets/img/portfolio/transportes.PNG",
+    "isOpenSource": false
+  },
+  {
+    "id": "xisa",
+    "titulo": "Punto de venta Xisa",
+    "descripcion": "Aplicación privativa para la empresa de peluches XISA. Es un punto de venta con arquitectura cliente servidor que contiene todas las operaciones necesarias para la venta y manejo de inventarios. Genera reportes en formato PDF y tiene la capacidad de imprimir tickets en impresoras térmicas, además, cuenta con un sistema de notificaciones en tiempo real, manejo de usuarios y roles.",
+    "urlDemo": "",
+    "urlGitHub": "",
+    "img": "assets/img/portfolio/xisa.PNG",
+    "isOpenSource": false
+  },
+  {
+    "id": "metricas",
+    "titulo": "Métricas App",
+    "descripcion": "Aplicación móvil desarrollada con Ionic 6 para la obtención de las métricas de Halstead de programas escritos en pseudocódigo. Esta aplicación incorpora un analizador léxico que obtiene los tokens de la aplicación para agruparlos en arreglos según su naturaleza (operandos u operadores), y posteriormente, aplica el cálculo de las métricas con opción de persistir los resultados.",
+    "urlDemo": "",
+    "urlGitHub": "https://github.com/AlejandroCN/app-metricas",
+    "img": "assets/img/portfolio/metricas.jpg",
+    "isOpenSource": true
+  }
+]
