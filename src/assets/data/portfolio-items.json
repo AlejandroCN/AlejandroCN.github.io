@@ -43,5 +43,14 @@
     "urlGitHub": "",
     "img": "assets/img/portfolio/xisa.PNG",
     "isOpenSource": false
+  },
+  {
+    "id": "metricas",
+    "titulo": "Métricas App",
+    "descripcion": "Aplicación móvil desarrollada con Ionic 6 para la obtención de las métricas de Halstead de programas escritos en pseudocódigo. Esta aplicación incorpora un analizador léxico que obtiene los tokens de la aplicación para agruparlos en arreglos según su naturaleza (operandos u operadores), y posteriormente, aplica el cálculo de las métricas con opción de persistir los resultados.",
+    "urlDemo": "",
+    "urlGitHub": "https://github.com/AlejandroCN/app-metricas",
+    "img": "assets/img/portfolio/metricas.jpg",
+    "isOpenSource": true
   }
 ]

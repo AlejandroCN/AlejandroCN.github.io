@@ -10141,6 +10141,7 @@ h3 {
   }
 }
 .masthead {
+  margin-top: -7%;
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
 }

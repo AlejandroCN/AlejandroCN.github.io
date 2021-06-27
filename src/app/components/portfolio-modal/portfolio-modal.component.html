@@ -50,7 +50,7 @@
                   Obtén el código de la aplicación:
                   <a [href]="portfolioItem.urlGitHub" target="_blank">GitHub</a>
                 </p>
-                <p class="mb-5">
+                <p class="mb-5" *ngIf="portfolioItem.urlDemo.length > 0">
                   Demostración en línea: 
                   <a [href]="portfolioItem.urlDemo" target="_blank">{{ portfolioItem.titulo }}</a>
                 </p>
