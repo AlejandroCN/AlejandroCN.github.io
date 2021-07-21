@@ -19,7 +19,7 @@ class AboutComponent {
     }
 }
 AboutComponent.ɵfac = function AboutComponent_Factory(t) { return new (t || AboutComponent)(); };
-AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutComponent, selectors: [["app-about"]], decls: 20, vars: 0, consts: [["id", "about", 1, "page-section", "bg-primary", "text-white", "mb-0"], [1, "container"], [1, "page-section-heading", "text-center", "text-uppercase", "text-white"], [1, "divider-custom", "divider-light"], [1, "divider-custom-line"], [1, "divider-custom-icon"], [1, "fas", "fa-star"], [1, "row"], [1, "col-lg-4", "ml-auto"], [1, "lead"], [1, "col-lg-4", "mr-auto"], [1, "text-center", "mt-4"], ["href", "https://drive.google.com/file/d/1a2zhCq1svSWXk2gZ9FN4IiIXf44P4aUg/view", "target", "_blank", 1, "btn", "btn-xl", "btn-outline-light"], [1, "fas", "fa-download", "mr-2"]], template: function AboutComponent_Template(rf, ctx) { if (rf & 1) {
+AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutComponent, selectors: [["app-about"]], decls: 20, vars: 0, consts: [["id", "about", 1, "page-section", "bg-primary", "text-white", "mb-0"], [1, "container"], [1, "page-section-heading", "text-center", "text-uppercase", "text-white"], [1, "divider-custom", "divider-light"], [1, "divider-custom-line"], [1, "divider-custom-icon"], [1, "fas", "fa-star"], [1, "row"], [1, "col-lg-4", "ml-auto"], [1, "lead"], [1, "col-lg-4", "mr-auto"], [1, "text-center", "mt-4"], ["href", "https://drive.google.com/file/d/1pJEtJRymh7phpsYxlaabvjFPGBFowyJ3/view?usp=sharing", "target", "_blank", 1, "btn", "btn-xl", "btn-outline-light"], [1, "fas", "fa-download", "mr-2"]], template: function AboutComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "h2", 2);
@@ -40,7 +40,7 @@ AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCom
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "div", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "p", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, " Actualmente soy pasante en la empresa H3 Consulting, estoy interesado en participar como desarrollador o consultor en alg\u00FAn proyecto de tecnolog\u00EDa perteneciente a mi \u00E1rea de conocimiento, si as\u00ED lo deseas puedes descargar mi CV en formato PDF donde obtendr\u00E1s mi informaci\u00F3n de contacto. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, " Estoy interesado en participar como desarrollador o consultor en alg\u00FAn proyecto de tecnolog\u00EDa perteneciente a mi \u00E1rea de conocimiento, si as\u00ED lo deseas puedes descargar mi CV en formato PDF donde obtendr\u00E1s mi informaci\u00F3n de contacto. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
